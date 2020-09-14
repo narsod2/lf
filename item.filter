@@ -1,7 +1,5 @@
 // Kryszard's Loot Filter ver 1.9
 //
-// twitch.tv/kryszard
-//
 // For Casual and EndGame Players
 
 //Gold
@@ -386,3 +384,5 @@ ItemDisplay[RW]: %NAME% %TAN%[%SOCKETS%]
 ItemDisplay[(UNI OR SET)]: %NAME%
 //Show me every identified item
 ItemDisplay[(ARMOR OR WEAPON) (MAG OR RARE OR SET OR UNI) ID]: %NAME%
+
+//HIDE EVERYTHING ELSE
